@@ -1,0 +1,6 @@
+emojifier_env/
+.vscode
+cfg.py
+assets/
+__pycache__/
+Procfile
